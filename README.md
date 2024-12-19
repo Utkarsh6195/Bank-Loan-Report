@@ -33,4 +33,5 @@
 ## Repository Structure
 - /SQL_Queries: SQL scripts for KPI computation and data segmentation.
 - /Excel_Dashboards: Excel files with design sheets and dynamic dashboards.
+  Link : https://1drv.ms/x/c/bf7da8408c212241/EY9WIinpMjNNj2OoaC0cFB0BblHM69Ftm4jwCEiq1UATdA?e=WejY1h
 - /Documentation: Problem statement and project methodology.
