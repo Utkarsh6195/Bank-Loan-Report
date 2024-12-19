@@ -20,6 +20,6 @@ Segmentation of Good and Bad Loans for better risk analysis.
 Interactive Excel dashboards for clear, actionable insights.
 
 ## Repository Structure
-/SQL_Queries: SQL scripts for data preparation.
-/Excel_Dashboards: Excel files with dashboards and insights.
-/Documentation: Problem statement and project overview.
+- /SQL_Queries: SQL scripts for data preparation.
+- /Excel_Dashboards: Excel files with dashboards and insights.
+- /Documentation: Problem statement and project overview.
