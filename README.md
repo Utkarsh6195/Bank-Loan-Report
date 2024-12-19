@@ -10,7 +10,9 @@
 
 ### SQL Expertise:
 - Wrote efficient queries to compute KPIs, perform Month-to-Date (MTD) and Month-over-Month (MoM) analyses, and segment loans into Good and Bad categories.
-
+- Segmented loans into Good Loans and Bad Loans using conditional logic and filtering.
+- Generated region-specific and demographic insights using GROUP BY, CASE, and aggregate functions.
+  
 ### Excel Dashboards:
 - Designed dynamic dashboards with interactive visualizations, including pivot tables, slicers, and charts.
 - Visualized trends in loan metrics across monthly, regional, and demographic categories.
